@@ -17,3 +17,16 @@
 .friends-screen{
     padding: 0px var(--horizontal-space);
 }
+
+.screen-header__icons{
+    position: relative;
+}
+.extra-icon{
+    background-color: tomato;
+    width: 8px;
+    height: 8px;
+    border-radius: 4px;
+    position: absolute;
+    right: -6px;
+    top: -7px;
+}
