@@ -1,4 +1,4 @@
-#no-mobile{
+/*#no-mobile{
     position: absolute;
     z-index:99;
     height: 100vh;
@@ -15,4 +15,4 @@
     #no-mobile{
         display:none
     }
-}
+}*/
