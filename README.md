@@ -1,3 +1,3 @@
-# kokoaClone
+#kokoa talk 챌린지 끝
 
-#드디어 제대로 클론 한걸까??
+site를 만들기 위해서는 git에서 gh-pages 브랜치를 꼭 만들자.!
