@@ -9,6 +9,7 @@
 @import "components/user-components.css";
 @import "components/icon-raw.css";
 @import "components/alt-screen-header.css";
+@import "components/no-mobile.css";
 /*Screens*/
 @import "screens/welcome-header.css";
 @import "screens/login-form.css";
